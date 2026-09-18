@@ -230,14 +230,8 @@ Swiggy-Data-Analysis/
 Add your Excel dashboard screenshot here:
 -  dashboard <a href="https://github.com/nikhilbavskar224-arch/Excel-Swiggy-Project-/blob/main/Screenshot%202026-09-19%20002432.png">dashboaed viwe</a>
 
-```markdown
-<img width="1191" height="660" alt="Screenshot 2026-09-19 002432" src="https://github.com/user-attachments/assets/9c767070-7244-444a-a961-d900898fbad1" />
+<img width="1191" height="660" alt="Screenshot 2026-09-19 002432" src="https://github.com/user-attachments/assets/6132c307-cb44-4819-83e9-0bd1e2bcb22e" />
 
-```
-
-If the dashboard is not yet created, this section can be updated after adding charts and slicers to the workbook.
-
----
 
 ## 💡 Key Insights
 
